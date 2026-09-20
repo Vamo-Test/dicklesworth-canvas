@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dicklesworth-canvas",
+  "main": "src/index.ts",
+  "compatibility_date": "2023-10-15",
+  "observability": { "enabled": true }
+}
